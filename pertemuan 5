@@ -1,0 +1,10 @@
+nilai = 20
+
+if nilai >= 25:
+    print("nilai a")
+elif nilai >= 20:
+    print("nilai b")
+elif nilai >= 15:
+    print("nilai c")
+else:
+    print("nilai d atau lebih rendah")
